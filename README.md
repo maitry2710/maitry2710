@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi, I'm Maitry Rathod 👋
 
-<!--
-**maitry2710/maitry2710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a **B.Tech student** at **National Institute of Technology, Warangal**, specializing in **Mathematics and Computing**. I’m passionate about coding, problem-solving, and building impactful projects. I enjoy learning new technologies and improving my skills in various areas of software development.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages**: C++, Java, Python, JavaScript, HTML
+- **Technologies**: Data Structures, Algorithms
+- **Tools**: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Exploring **Machine Learning** and **AI**
+- Building **web applications** 
+
+## Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/maitry-rathod/)
+
+Let's collaborate on exciting projects! 🚀
